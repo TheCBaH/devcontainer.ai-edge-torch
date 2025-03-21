@@ -1,0 +1,8 @@
+{
+    "name": "PIP Requirements",
+    "id": "pip-requirements",
+    "version": "0.0.1",
+    "description": "Install python pip packages from requirements.txt",
+    "options": {
+    }
+}

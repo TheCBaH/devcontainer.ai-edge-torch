@@ -1,0 +1,6 @@
+[submodule "model-explorer"]
+	path = model-explorer
+	url = https://github.com/google-ai-edge/model-explorer.git
+[submodule "ai-edge-torch"]
+	path = ai-edge-torch
+	url = https://github.com/google-ai-edge/ai-edge-torch.git

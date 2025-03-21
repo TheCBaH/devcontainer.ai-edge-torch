@@ -12,9 +12,7 @@
             "userGid": "1000",
             "upgradePackages": "false"
         },
-        "./features/pip-packages": {
-            "packages": "transformers torch rich accelerate"
-        },
+        "./features/pip-requirements": { },
     },
     "hostRequirements": {
         "gpu": "optional"
